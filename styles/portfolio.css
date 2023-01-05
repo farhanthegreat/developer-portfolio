@@ -109,3 +109,11 @@ main {
 .about_info {
     
 }
+
+/* what i do styles */
+.what-i-do {
+    margin-top: 130px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    text-align: center;
+}
